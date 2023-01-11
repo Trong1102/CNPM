@@ -13,7 +13,7 @@ Sinh viên có thể xem bảng điểm của mình, đăng ký học, xem lịc
 ## Thành viên nhóm :
 - <a href = "https://github.com/Trong1102"> A40355 Nguyễn Trung Trọng </a>
 - <a href = "https://github.com/Trong1102"> A40791 Đặng Anh Tuấn </a>
-- <a href = "https://github.com/Trong1102"> A37834 Nguyễn Tiến Quân </a>
+- <a href = "https://github.com/Quantienquanz"> A37834 Nguyễn Tiến Quân </a>
 - <a href = "https://github.com/Trong1102"> A40088 Nguyễn Trung Hiếu </a>
 
 # Dự án
