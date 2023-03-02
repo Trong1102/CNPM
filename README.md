@@ -5,10 +5,9 @@
 
 # Giới thiệu
 
-- Quản lý sinh viên là 1 công tác rất quan trọng và phức tạp mà bất kỳ đơn vị đào tạo đại học nào cũng phải thực hiện. Bắt đầu từ việc làm thủ tục nhập học cho sinh viên mới, tiếp theo đó là theo dõi và quản lý các thông tin về sinh viên trong suốt khóa học cũng như hệ thống hóa, lưu trữ và bảo quản thông tin:  kết quả học tập, hồ sơ cá nhân khi sinh viên ra trường.
-- Trong phần mềm, nhân viên phòng Đào tạo, giáo viên, sinh viên đều được cấp tài khoản và được cấp quyền dựa theo chức năng và nghiệp vụ.Về phòng Đào tạo, cũng như quản trị hệ thống được phép quản lý giáo viên, sinh viên, chuyên ngành, môn học, lưu trữ, tìm kiếm và thống kê. 
-- Giáo viên được phép quản lý học sinh theo môn học mà mình được phân công giảng dạy, nhập điểm cho sinh viên theo môn học, cập nhật tình trạng của sinh viên. 
-Sinh viên có thể xem bảng điểm của mình, đăng ký học, xem lịch thi các môn đang học. 
+ - Phần mềm quản lý kho là một giải pháp hiệu quả giúp các doanh nghiệp quản lý và kiểm soát quá trình nhập xuất hàng hóa một cách chính xác và nhanh chóng. Phần mềm sẽ giúp các nhân viên quản lý kho tiết kiệm thời gian và tăng năng suất làm việc, đồng thời giảm thiểu các sai sót trong quá trình nhập xuất hàng hóa.
+
+ - Phần mềm quản lý kho được thiết kế với giao diện thân thiện và dễ sử dụng, cho phép người dùng dễ dàng tìm kiếm và theo dõi thông tin về hàng hóa, quản lý số lượng và giá cả của các sản phẩm, lên kế hoạch đặt hàng và theo dõi quá trình vận chuyển. Đặc biệt, phần mềm cũng tích hợp tính năng báo cáo tổng quan về tình trạng kho hàng và lịch sử nhập xuất, giúp các nhân viên quản lý kho đưa ra quyết định kinh doanh chính xác hơn.
 
 ## Thành viên nhóm :
 - <a href = "https://github.com/Trong1102"> A40355 Nguyễn Trung Trọng </a>
